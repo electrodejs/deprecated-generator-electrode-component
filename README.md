@@ -12,6 +12,16 @@ See [electrode-archetype-react-component-component-gulp-tasks] for complete
 documentation of the gulp tasks.
 
 
+## Contents
+
+* [Getting Started](#getting-started)
+* [Developing Your Component](#developing-your-component)
+    * [Source](#source)
+    * [Example and Preview](#example-and-preview)
+    * [Linting and Unit Testing](#linting-and-unit-testing)
+    * [Building and Publishing](#building-and-publishing)
+* [License](#license)
+
 ## Getting Started
 
 Install the generator:
@@ -41,7 +51,7 @@ It's a great idea to add a description, documentation and other information to
 your `README.md` file, to help people who are interested in using your
 component.
 
-### Example & Preview
+### Example and Preview
 
 Preview your component with LiveReload:
 
@@ -72,12 +82,6 @@ gulp build
 
 This will build your `lib`, `dist` and `example/dist` folders for release.
 
-### Other npm scripts
-
-#### `examples`
-
-Just run the examples server; no code will be built or watched, everything in
-`example/dist` will be served on [localhost:4000](http://localhost:4000)
 
 ## License
 
