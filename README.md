@@ -1,3 +1,7 @@
+# Deprecated
+
+This repo has been moved [here](https://github.com/electrode-io/electrode/tree/4b0838a78c94398fc5a8ec93a39f2b9c0ea52005/packages/generator-electrode-component)
+
 # generator-electrode-component
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
